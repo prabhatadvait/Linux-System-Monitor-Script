@@ -20,7 +20,7 @@ linux-system-monitor/
 ├── system_monitor.log # Log file (generated after running the script)
 └── README.md # Documentation
 
-## **🚀 Quick Start
+## **🚀 Quick Start**
 Step 1: Clone the Repository
 
 git clone https://github.com/prabhatadvait/Linux-System-Monitor-Script.git
@@ -38,9 +38,9 @@ Run the script:
 
 Step 4: View Logs
 The script logs system stats into system_monitor.log. Check it with:
-
 cat system_monitor.log
-## **📸 Sample Output
+
+## **📸 Sample Output**
 Real-Time Monitoring (Terminal)
 
 Linux System Monitor
